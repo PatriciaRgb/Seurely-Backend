@@ -2,7 +2,7 @@
 
 Sistema de gestión para Saurely — tienda de maquillaje y cuidado de piel mexicana.
 
-**Integrantes:** _(agrega tu nombre aquí)_
+**Integrantes:** _(Patricia Segura Resendiz)_
 
 ## Descripción de los 5 módulos
 
