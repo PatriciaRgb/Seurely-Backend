@@ -61,7 +61,7 @@ const login = (req, res) => {
             { expiresIn: process.env.JWT_EXPIRES }
         );
 
-        res.json({ mensaje: 'Login exitoso', token });
+       res.json({ mensaje: 'Login exitoso', token, nombre: cliente.nombre });
     });
 };
 
